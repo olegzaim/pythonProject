@@ -1,0 +1,94 @@
+{
+  "Car" :[
+    {
+      "make": "BMW",
+      "model": "7",
+      "fuel_consumption": 6,
+      "reg_number": "PB7777XT",
+      "price_per_hour": 30,
+      "price_per_day": 130,
+      "price_per_week": 500
+    },
+    {
+      "make": "BMW",
+      "model": "5",
+      "fuel_consumption": 5,
+      "reg_number": "PB5555XT",
+      "price_per_hour": 20,
+      "price_per_day": 110,
+      "price_per_week": 450
+    },
+    {
+      "make": "BMW",
+      "model": "X7",
+      "fuel_consumption": 7,
+      "reg_number": "PB0707XT",
+      "price_per_hour": 40,
+      "price_per_day": 140,
+      "price_per_week": 520
+    },
+    {
+      "make": "Mercedes Benz",
+      "model": "C205",
+      "fuel_consumption": 6,
+      "reg_number": "PB0205XT",
+      "price_per_hour": 30,
+      "price_per_day": 130,
+      "price_per_week": 480
+    },
+    {
+      "make": "Mercedes Benz",
+      "model": "S213",
+      "fuel_consumption": 5.8,
+      "reg_number": "PB0213XT",
+      "price_per_hour": 25,
+      "price_per_day": 125,
+      "price_per_week": 470
+    },
+    {
+      "make": "Mercedes Benz",
+      "model": "W213",
+      "fuel_consumption": 5.5,
+      "reg_number": "PB2130XT",
+      "price_per_hour": 30,
+      "price_per_day": 130,
+      "price_per_week": 490
+    },
+    {
+      "make": "Mercedes Benz",
+      "model": "W222",
+      "fuel_consumption": 6.3,
+      "reg_number": "PB2222XT",
+      "price_per_hour": 60,
+      "price_per_day": 170,
+      "price_per_week": 550
+    },
+    {
+      "make": "Audi",
+      "model": "A4",
+      "fuel_consumption": 4.5,
+      "reg_number": "PB4444XT",
+      "price_per_hour": 30,
+      "price_per_day": 180,
+      "price_per_week": 530
+    },
+    {
+      "make": "Audi",
+      "model": "A6C8",
+      "fuel_consumption": 5.3,
+      "reg_number": "PB6666XT",
+      "price_per_hour": 40,
+      "price_per_day": 175,
+      "price_per_week": 510
+    },
+    {
+      "make": "Audi",
+      "model": "A8D5",
+      "fuel_consumption": 6.6,
+      "reg_number": "PB5555XT",
+      "price_per_hour": 65,
+      "price_per_day": 210,
+      "price_per_week": 580
+    }
+  ]
+}
